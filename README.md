@@ -1,16 +1,16 @@
-Qt5¶þÎ¬ÂëÊ¶±ð¿âQr
+ï»¿Qt5äºŒç»´ç è¯†åˆ«åº“Qr
 --------------------
-###ÕâÊÇÒ»¸öÊ²Ã´ÑùµÄ¿â£¿
-ÔÚQt5¿ª·¢³ÌÐòÊ±£¬¿ÉÒÔÓÃZXing¿âÊ¶±ð¶þÎ¬Âë£¬µ«ÊÇÔÚ¿ª·¢µÄ¹ý³ÌÖÐÖ±½Ó½«ZXing¿âµÄÔ´ÂëÒýÈë±È½Ï·±Ëö¡£Òò´Ë£¬ÎÒ½«ZXing¿â·â×°³ÉÁËdll£¬ÒÔ±ãÓÚÔÚÏîÄ¿ÖÐÊ¹ÓÃZXing¡£
+###è¿™æ˜¯ä¸€ä¸ªä»€ä¹ˆæ ·çš„åº“ï¼Ÿ
+åœ¨Qt5å¼€å‘ç¨‹åºæ—¶ï¼Œå¯ä»¥ç”¨ZXingåº“è¯†åˆ«äºŒç»´ç ï¼Œä½†æ˜¯åœ¨å¼€å‘çš„è¿‡ç¨‹ä¸­ç›´æŽ¥å°†ZXingåº“çš„æºç å¼•å…¥æ¯”è¾ƒç¹çã€‚å› æ­¤ï¼Œæˆ‘å°†ZXingåº“å°è£…æˆäº†dllï¼Œä»¥ä¾¿äºŽåœ¨é¡¹ç›®ä¸­ä½¿ç”¨ZXingã€‚
 
-###Ê²Ã´Çé¿öÏÂÊ¹ÓÃQr¿â£¿
-Ê×ÏÈ£¬Qr»¹ÊÇÒÀÀµQt¿ò¼ÜµÄ£¬Òò´Ë£¬½¨ÒéÔÚQt³ÌÐòÖÐÊ¹ÓÃQr¡£Æä´Î£¬ÎÒÊÇÔÚWin32+MSVC2010ÏÂ¿ª·¢µÄ¡£
+###ä»€ä¹ˆæƒ…å†µä¸‹ä½¿ç”¨Qråº“ï¼Ÿ
+é¦–å…ˆï¼ŒQrè¿˜æ˜¯ä¾èµ–Qtæ¡†æž¶çš„ï¼Œå› æ­¤ï¼Œå»ºè®®åœ¨Qtç¨‹åºä¸­ä½¿ç”¨Qrã€‚å…¶æ¬¡ï¼Œæˆ‘æ˜¯åœ¨Win32+MSVC2010ä¸‹å¼€å‘çš„ã€‚
 
-###ÈçºÎÊ¹ÓÃQr¿â£¿
-Qr¿âÖ»µ¼³öÁËÒ»¸öGetQrStrÕâÒ»¸öº¯Êý£¬º¯ÊýµÄÔ­ÐÍÊÇ£º
-		bool GetQrStr(const char* file, char* buffer, int buffer_size)
-Ê¹ÓÃ·½·¨¼û
-		test/main.cpp
+###å¦‚ä½•ä½¿ç”¨Qråº“ï¼Ÿ
+Qråº“åªå¯¼å‡ºäº†ä¸€ä¸ªGetQrStrè¿™ä¸€ä¸ªå‡½æ•°ï¼Œå‡½æ•°çš„åŽŸåž‹æ˜¯ï¼š
+	bool GetQrStr(const char* file, char* buffer, int buffer_size)
+ä½¿ç”¨æ–¹æ³•è§
+	test/main.cpp
     
-###ÆäËû
-ÎÒµÄÁªÏµ·½Ê½ÊÇthlgood(#)yucoat.com
+###å…¶ä»–
+æˆ‘çš„è”ç³»æ–¹å¼æ˜¯thlgood(#)yucoat.com
