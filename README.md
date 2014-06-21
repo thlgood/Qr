@@ -11,9 +11,9 @@ Qt5二维码识别库Qr
 如何使用Qr库？
 -------------------------
 Qr库只导出了一个GetQrStr这一个函数，函数的原型是：
-    bool GetQrStr(const char* file, char* buffer, int buffer_size)
+        bool GetQrStr(const char* file, char* buffer, int buffer_size)
 使用方法见
-    test/main.cpp
+        test/main.cpp
     
 其他
 ---------------------------
